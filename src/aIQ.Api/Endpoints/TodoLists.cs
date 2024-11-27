@@ -3,7 +3,7 @@ using aIQ.Core.Application.TodoLists.Commands.DeleteTodoList;
 using aIQ.Core.Application.TodoLists.Commands.UpdateTodoList;
 using aIQ.Core.Application.TodoLists.Queries.GetTodos;
 
-namespace aIQ.Web.Endpoints;
+namespace aIQ.Api.Endpoints;
 
 public class TodoLists : EndpointGroupBase
 {

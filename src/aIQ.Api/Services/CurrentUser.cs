@@ -2,7 +2,7 @@
 
 using aIQ.Core.Application.Common.Interfaces;
 
-namespace aIQ.Web.Services;
+namespace aIQ.Api.Services;
 
 public class CurrentUser : IUser
 {

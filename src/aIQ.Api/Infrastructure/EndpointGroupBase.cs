@@ -1,4 +1,4 @@
-﻿namespace aIQ.Web.Infrastructure;
+﻿namespace aIQ.Api.Infrastructure;
 
 public abstract class EndpointGroupBase
 {

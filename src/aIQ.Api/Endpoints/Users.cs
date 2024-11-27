@@ -1,6 +1,6 @@
 ﻿using aIQ.Core.Infrastructure.Identity;
 
-namespace aIQ.Web.Endpoints;
+namespace aIQ.Api.Endpoints;
 
 public class Users : EndpointGroupBase
 {

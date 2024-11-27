@@ -2,7 +2,7 @@
 using Microsoft.AspNetCore.Diagnostics;
 using Microsoft.AspNetCore.Mvc;
 
-namespace aIQ.Web.Infrastructure;
+namespace aIQ.Api.Infrastructure;
 
 public class CustomExceptionHandler : IExceptionHandler
 {

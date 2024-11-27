@@ -1,7 +1,7 @@
 ﻿using Azure.Identity;
 using aIQ.Core.Application.Common.Interfaces;
 using aIQ.Core.Infrastructure.Data;
-using aIQ.Web.Services;
+using aIQ.Api.Services;
 using Microsoft.AspNetCore.Mvc;
 
 using NSwag;

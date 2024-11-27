@@ -5,7 +5,7 @@ using aIQ.Core.Application.TodoItems.Commands.UpdateTodoItem;
 using aIQ.Core.Application.TodoItems.Commands.UpdateTodoItemDetail;
 using aIQ.Core.Application.TodoItems.Queries.GetTodoItemsWithPagination;
 
-namespace aIQ.Web.Endpoints;
+namespace aIQ.Api.Endpoints;
 
 public class TodoItems : EndpointGroupBase
 {

@@ -1,6 +1,6 @@
 ﻿using aIQ.Core.Application.WeatherForecasts.Queries.GetWeatherForecasts;
 
-namespace aIQ.Web.Endpoints;
+namespace aIQ.Api.Endpoints;
 
 public class WeatherForecasts : EndpointGroupBase
 {

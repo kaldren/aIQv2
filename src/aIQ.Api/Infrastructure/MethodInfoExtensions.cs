@@ -1,6 +1,6 @@
 ﻿using System.Reflection;
 
-namespace aIQ.Web.Infrastructure;
+namespace aIQ.Api.Infrastructure;
 
 public static class MethodInfoExtensions
 {
