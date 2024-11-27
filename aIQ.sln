@@ -36,7 +36,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "aIQ.Functions", "src\aIQ.Fu
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Functions", "Functions", "{1003E03E-E3D9-4792-98E6-E76BB79CD351}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "aIQ.CoreV2", "src\aIQ.CoreV2\aIQ.CoreV2.csproj", "{2C5E1FF6-2BF7-42EC-8DA9-998352FC7728}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "aIQ.Core", "src\aIQ.CoreV2\aIQ.Core.csproj", "{2C5E1FF6-2BF7-42EC-8DA9-998352FC7728}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
