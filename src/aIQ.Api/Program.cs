@@ -1,4 +1,6 @@
+using aIQ.Core.Application.ApplicationExtensions;
 using aIQ.Core.Infrastructure.Data;
+using aIQ.Core.Infrastructure.InfrastructureExtensions;
 
 var builder = WebApplication.CreateBuilder(args);
 

@@ -21,8 +21,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\aIQ.Core\aIQ.Core.Application\aIQ.Core.Application.csproj" />
-    <ProjectReference Include="..\aIQ.Core\aIQ.Core.Infrastructure\aIQ.Core.Infrastructure.csproj" />
+    <ProjectReference Include="..\aIQ.CoreV2\aIQ.CoreV2.csproj" />
   </ItemGroup>
 
 

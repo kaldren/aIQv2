@@ -1,0 +1,12 @@
+﻿global using Ardalis.GuardClauses;
+global using AutoMapper;
+global using AutoMapper.QueryableExtensions;
+global using Microsoft.EntityFrameworkCore;
+global using FluentValidation;
+global using MediatR;
+global using aIQ.Core.Domain.Common;
+global using aIQ.Core.Domain.Entities;
+global using aIQ.Core.Domain.Enums;
+global using aIQ.Core.Domain.Events;
+global using aIQ.Core.Domain.Exceptions;
+global using aIQ.Core.Domain.ValueObjects;
