@@ -38,6 +38,7 @@
 
     <ItemGroup>
       <ProjectReference Include="..\..\src\aIQ.Api\aIQ.Api.csproj" />
+      <ProjectReference Include="..\..\src\aIQ.Core\aIQ.Core.csproj" />
     </ItemGroup>
 
 </Project>

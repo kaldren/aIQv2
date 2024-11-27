@@ -22,7 +22,7 @@
     </ItemGroup>
 
     <ItemGroup>
-      <ProjectReference Include="..\..\src\aIQ.CoreV2\aIQ.Core.csproj" />
+      <ProjectReference Include="..\..\src\aIQ.Core\aIQ.Core.csproj" />
     </ItemGroup>
 
 </Project>
